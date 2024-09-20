@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Riya
 
-I'm a Web Developer and Cybersecurity enthusiast, passionate about building applications and solving problems using OSINT tools.
-
+I'm a Web Developer and Cybersecurity enthusiast, passionate about building applications and solving problems .
+participate one hackthonand won won
 ## 💻 Tech Stack
 - Languages: Python, JavaScript, C++
 - Frameworks: React, Node.js
@@ -15,12 +15,16 @@ I'm a Web Developer and Cybersecurity enthusiast, passionate about building appl
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyaahuja181&theme=radical)
 
-## 🌱 What I'm learning
-- Currently learning Docker and Kubernetes
-- Exploring more on Data Science
+##🌱 What I'm learning
+- Enhancing my skills in coding and networking.
+- Focusing on understanding IPs and network configurations.
+
+# 🕵️‍♀️ National Missing Persons OSINT Project
+
+We participated in the **National Missing Persons Hackathon 2024** and secured **3rd place** for our use of **Open-Source Intelligence (OSINT)** techniques. 
 
 ## 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/parnamika-ahuja-a13504247/) | Email: riyahuja181@gmail.com
+[LinkedIn](https://www.linkedin.com/in/parnamika-ahuja-a13504247/) | Email: riyaahuja182004@gmail.com
 
 ## 🔧 Tools I Use
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=VisualStudioCode)
