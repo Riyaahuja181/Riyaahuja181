@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Riya
+# 👋 Hi, I'm Parnamika
 
 I'm a Web Developer and Cybersecurity enthusiast, passionate about building applications and solving problems .
 participate one hackthonand won won
